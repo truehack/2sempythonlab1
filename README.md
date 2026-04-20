@@ -5,7 +5,7 @@
 
 ## Ход работы с репозиторием:
 ```
-1) git clone https://github.com/truehack/2sempythonlab1.git
+1) git clone -b lab3 https://github.com/truehack/2sempythonlab1.git
 2) cd 2sempythonlab1
 3) pip install pytest pytest-cov typing-extensions
 4) python main.py
