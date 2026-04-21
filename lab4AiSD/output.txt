@@ -1,0 +1,56 @@
+1 qwerty 3.14
+OK
+1 asdf 5.00
+OK
+1 dyz 4.50
+OK
+1 uiop 7.78
+OK
+3
+asdf:5.00 dyz:4.50 qwerty:3.14 uiop:7.78 
+4 asdf
+5.00
+2 dyz
+OK
+3
+asdf:5.00 qwerty:3.14 uiop:7.78 
+4 qwerty
+3.14
+1 zzz 1.10
+OK
+1 abc 2.20
+OK
+1 mmm 3.30
+OK
+1 ttt 4.40
+OK
+1 yyy 5.50
+OK
+1 bbb 6.60
+OK
+1 ccc 7.70
+OK
+1 ddd 8.80
+OK
+1 eee 9.90
+OK
+1 fff 10.10
+OK
+1 ggg 11.20
+OK
+1 hhh 12.30
+OK
+1 iii 13.40
+OK
+1 jjj 14.50
+OK
+1 kkk 15.60
+OK
+3
+abc:2.20 asdf:5.00 bbb:6.60 ccc:7.70 ddd:8.80 eee:9.90 fff:10.10 ggg:11.20 hhh:12.30 iii:13.40 jjj:14.50 kkk:15.60 mmm:3.30 qwerty:3.14 ttt:4.40 uiop:7.78 yyy:5.50 zzz:1.10 
+4 zzz
+1.10
+2 abc
+OK
+3
+asdf:5.00 bbb:6.60 ccc:7.70 ddd:8.80 eee:9.90 fff:10.10 ggg:11.20 hhh:12.30 iii:13.40 jjj:14.50 kkk:15.60 mmm:3.30 qwerty:3.14 ttt:4.40 uiop:7.78 yyy:5.50 zzz:1.10 

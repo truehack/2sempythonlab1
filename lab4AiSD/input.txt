@@ -1,0 +1,28 @@
+1 qwerty 3.14
+1 asdf 5.0
+1 dyz 4.5
+1 uiop 7.7777
+3
+4 asdf
+2 dyz
+3
+4 qwerty
+1 zzz 1.1
+1 abc 2.2
+1 mmm 3.3
+1 ttt 4.4
+1 yyy 5.5
+1 bbb 6.6
+1 ccc 7.7
+1 ddd 8.8
+1 eee 9.9
+1 fff 10.1
+1 ggg 11.2
+1 hhh 12.3
+1 iii 13.4
+1 jjj 14.5
+1 kkk 15.6
+3
+4 zzz
+2 abc
+3
